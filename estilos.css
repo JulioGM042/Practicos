@@ -18,7 +18,7 @@ h2 {
   text-decoration-line: underline;
 }
 .bajada{
-  color:#FFB86F;
+  color:#FF0F0F;
   font-family: "arial",serif;
   font-weight: bolder;
   margin: auto;
@@ -85,3 +85,57 @@ p{
   font-size: 125%;
   font-weight: 250;
 }
+nav{
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 300px;
+  padding-right: 100px;
+  text-align: center;
+  font-family: "Arial Unicode MS";
+  }
+.salta{
+  padding-right: 50px;
+}
+.salta:visited{
+  color:#FFB86F;
+}
+.cordillera{
+padding-right: 50px;
+}
+.cordillera:visited{
+  color:#FFB86F;
+}
+.pampa{
+padding-right: 50px;
+}
+.pampa:visited{
+  color:#FFB86F;
+}
+.litoral{
+padding-right: 50px;
+}
+.litoral:visited{
+  color:#FFB86F;
+}
+.redes{
+  text-align: center;
+  margin-left: 0px;
+}
+.redes li{
+list-style: none;
+font-size: 200%;
+display: inline-block;
+margin-right: 10px;
+}
+.contacto{
+  position:fixed;
+  width:60px;
+  height:60px;
+  line-height: 63px;
+  bottom:25px;
+  right:25px;
+  background:green;
+  color:white;
+  text-align:center;
+  font-size:50px;
+    }
